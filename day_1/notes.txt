@@ -1,0 +1,9 @@
+pipenv: pip + virtualenv 
+
+1. pip3 install pipenv 
+
+virtual env: which version python 
+
+2. pipenv --python python3.6
+3. pipenv install PACKAGE 
+4. pipenv shell 
